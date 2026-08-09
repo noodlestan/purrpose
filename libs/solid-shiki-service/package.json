@@ -1,0 +1,47 @@
+{
+  "name": "@purrpose/solid-shiki-service",
+  "version": "0.0.11",
+  "description": "Shiki syntax highlighting service for SolidJS.",
+  "author": "Noodlestan Collective",
+  "license": "MIT",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noodlestan/purrpose.git",
+    "directory": "libs/solid-shiki-service"
+  },
+  "type": "module",
+  "sideEffects": false,
+  "main": "./src/index.ts",
+  "files": [
+    "src",
+    "LICENSE-MIT"
+  ],
+  "scripts": {
+    "dev": "vite build --watch",
+    "lint": "prettier . -c && eslint . && tsc --noEmit",
+    "lint:fix": "prettier . -c --write && eslint . --fix",
+    "build:clean": "rm -rf dist",
+    "build": "vite build",
+    "test": "echo none yet",
+    "ci": "npm run lint && npm run build && npm run test"
+  },
+  "dependencies": {
+    "@no-comply/solid-primitives": "file:../../../../../context-work/no-comply/libs/solid-primitives"
+  },
+  "peerDependencies": {
+    "prettier": "^3.8.4",
+    "shiki": "^4.3.0",
+    "solid-js": "^1.9.5"
+  },
+  "devDependencies": {
+    "vite": "^8.0.16",
+    "vite-plugin-solid": "^2.11.12",
+    "vite-plugin-solid-svg": "^0.8.1",
+    "vite-plugin-top-level-await": "^1.6.0",
+    "vitest": "^4.1.8"
+  }
+}
