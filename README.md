@@ -12,10 +12,6 @@ Purrpose provides focused utility packages for in-browser JSX/TSX compilation, S
 - [@purrpose/client-babel-preset-solidjs](./libs/client-babel-preset-solidjs/README.md) — SolidJS JSX transform preset for `@purrpose/client-babel`.
 - [@purrpose/solid-shiki-service](./libs/solid-shiki-service/README.md) — Shiki syntax highlighting service for SolidJS.
 
-## Development
-
-Make sure you read the [root README](../README.md) first.
-
 ## MIT License
 
 Copyright (c) 2025 [Noodlestan](https://noodlestan.org/).

@@ -12,14 +12,6 @@
   "engines": {
     "node": ">=18"
   },
-  "main": "libs/solid-shiki-service/src/index.ts",
-  "types": "libs/solid-shiki-service/src/index.ts",
-  "exports": {
-    ".": {
-      "import": "./libs/solid-shiki-service/src/index.ts",
-      "types": "./libs/solid-shiki-service/src/index.ts"
-    }
-  },
   "scripts": {
     "clean": "turbo run build:clean",
     "build": "turbo run build",
