@@ -34,10 +34,9 @@ As the demo app configures syntax highlighting, I need language definitions to c
 
 ## Changes
 
-|package |feature|change|summary|
-|-|-|-|-|
-|@purrpose/solid-shiki-service|Syntax highlighting|changed|`SyntaxHighlighterLang` widened from union to `string`|
-|@purrpose/solid-shiki-service|Syntax highlighting|changed|`DEFAULT_OPTIONS` renamed to `DEFAULT_LANGS`|
-|@purrpose/solid-shiki-service|Syntax highlighting|changed|`createSyntaxHighlighter` accepts optional `langs` param|
-|@purrpose/solid-shiki-service|Syntax highlighting|changed|`createOptions` merges external langs over defaults|
-
+| package                       | feature             | change  | summary                                                  |
+| ----------------------------- | ------------------- | ------- | -------------------------------------------------------- |
+| @purrpose/solid-shiki-service | Syntax highlighting | changed | `SyntaxHighlighterLang` widened from union to `string`   |
+| @purrpose/solid-shiki-service | Syntax highlighting | changed | `DEFAULT_OPTIONS` renamed to `DEFAULT_LANGS`             |
+| @purrpose/solid-shiki-service | Syntax highlighting | changed | `createSyntaxHighlighter` accepts optional `langs` param |
+| @purrpose/solid-shiki-service | Syntax highlighting | changed | `createOptions` merges external langs over defaults      |

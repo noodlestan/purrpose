@@ -1,8 +1,8 @@
 # @purrpose
 
-> Single-purpose utilities for in-browser code compilation and documentation tooling.
+> Layered code rendering system for codebase data extracted with Purrception.
 
-Purrpose provides focused utility packages for in-browser JSX/TSX compilation, SolidJS JSX transform presets, and Shiki-based syntax highlighting.
+Single-purpose utilities for in-browser JSX/TSX compilation, SolidJS JSX transform presets, and Shiki-based syntax highlighting.
 
 ## Packages
 

@@ -37,10 +37,9 @@ As a consumer of the Standard UI demo and related rendering services, I need `Sy
 
 ## Changes
 
-|package |feature|change|summary|
-|-|-|-|-|
-|@purrpose/solid-shiki-service|N/A|added|new package|
-|@purrpose/solid-shiki-service|Syntax highlighting|added|`SyntaxHighlighter` service, types, and defaults|
-|@no-comply/standard-ui-demo|Code blocks|changed|import `SyntaxHighlighter` from `@purrpose/solid-shiki-service`|
-|@no-comply/standard-ui-demo|Code blocks|removed|old `src/services/SyntaxHighlighter/` directory|
-
+| package                       | feature             | change  | summary                                                         |
+| ----------------------------- | ------------------- | ------- | --------------------------------------------------------------- |
+| @purrpose/solid-shiki-service | N/A                 | added   | new package                                                     |
+| @purrpose/solid-shiki-service | Syntax highlighting | added   | `SyntaxHighlighter` service, types, and defaults                |
+| @no-comply/standard-ui-demo   | Code blocks         | changed | import `SyntaxHighlighter` from `@purrpose/solid-shiki-service` |
+| @no-comply/standard-ui-demo   | Code blocks         | removed | old `src/services/SyntaxHighlighter/` directory                 |

@@ -1,7 +1,7 @@
 {
   "name": "purrpose",
   "version": "0.0.11",
-  "description": "Single-purpose utilities for in-browser code compilation and documentation tooling.",
+  "description": "Single-purpose utilities for in-browser JSX/TSX compilation, SolidJS JSX transform presets, and Shiki-based syntax highlighting.",
   "author": "Noodlestan Collective",
   "license": "MIT",
   "private": true,
@@ -10,7 +10,7 @@
     "libs/*"
   ],
   "engines": {
-    "node": ">=18"
+    "node": ">=22"
   },
   "scripts": {
     "clean": "turbo run build:clean",
