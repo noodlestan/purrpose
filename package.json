@@ -23,9 +23,8 @@
   },
   "devDependencies": {
     "@babel/standalone": "^7.29.7",
-    "@noodlestan/esbuild": "^0.0.11",
-    "@noodlestan/eslint-config": "^0.0.7",
-    "@noodlestan/tsconfig": "^0.0.11",
+    "@noodlestan/eslint-config": "^0.0.8",
+    "@noodlestan/tsconfig": "^0.0.12",
     "@types/babel__standalone": "^7.1.9",
     "@types/node": "^25.9.3",
     "@typescript-eslint/eslint-plugin": "8.11.0",

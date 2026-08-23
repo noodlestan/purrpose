@@ -30,7 +30,7 @@
     "ci": "npm run lint && npm run build && npm run test"
   },
   "dependencies": {
-    "@no-comply/solid-primitives": "file:../../../../../context-work/no-comply/libs/solid-primitives"
+    "@no-comply/solid-primitives": "0.0.11"
   },
   "peerDependencies": {
     "prettier": "^3.8.4",
