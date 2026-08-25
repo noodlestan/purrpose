@@ -1,20 +1,16 @@
-# @purrpose
+# Module
 
-> Layered code rendering system for codebase data extracted with Purrception.
+## License: Noodlestan 2025 MIT
 
-Single-purpose utilities for in-browser JSX/TSX compilation, SolidJS JSX transform presets, and Shiki-based syntax highlighting.
+**Short:**
 
-## Packages
+Copyright (c) 2025 [Noodlestan](https://noodlestan.org/).
 
-### Libraries
+Published under a [MIT license](https://noodlestan.mit-license.org/).
 
-- [@purrpose/client-babel](./libs/client-babel/README.md) — In-browser JSX/TSX compiler for playgrounds and documentation tools.
-- [@purrpose/client-babel-preset-solidjs](./libs/client-babel-preset-solidjs/README.md) — SolidJS JSX transform preset for `@purrpose/client-babel`.
-- [@purrpose/solid-shiki-service](./libs/solid-shiki-service/README.md) — Shiki syntax highlighting service for SolidJS.
+**Long:**
 
-## License
-
-MIT License
+MIT License https://noodlestan.mit-license.org/
 
 Copyright (c) 2025 Noodlestan https://noodlestan.org/
 
