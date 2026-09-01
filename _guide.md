@@ -61,13 +61,3 @@ Run from the repository root (monorepo):
 ```bash
 npm ci # to install dependencies.
 ```
-
-### Operating Instructions: Verifying Completion
-
-**Instructions:**
-
-Run from the repository root (monorepo):
-
-```bash
-npm run ci # lint, build and test
-```
