@@ -1,8 +1,8 @@
-# @purrpose
+# Purrpose
 
-> Layered code rendering system for codebase data extracted with Purrception.
+> In browser source code and metadata transformations.
 
-Single-purpose utilities for in-browser JSX/TSX compilation, SolidJS JSX transform presets, and Shiki-based syntax highlighting.
+Single-purpose utilities for in-browser transformations: JSX/TSX compilation, SolidJS JSX transform presets, and Shiki-based syntax highlighting.
 
 ## Packages
 

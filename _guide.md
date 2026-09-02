@@ -1,6 +1,10 @@
-# Purrpose
+# Guide: Purrpose
 
-Single-purpose utilities for in-browser JSX/TSX compilation, SolidJS JSX transform presets, and Shiki-based syntax highlighting.
+> Host and manage the Purrpose packages and tools, and their planning artefacts.
+
+Monorepo containing the Purrpose roadmap, utility libraries, and their backlogs.
+
+Uses Workflow: Planning Work with one backlog per package.
 
 ## Recommended Reading
 

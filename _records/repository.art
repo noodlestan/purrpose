@@ -2,9 +2,9 @@
 
 ## Repository: Purrpose
 
-**Purpose:** Host and manage the Purrpose packages.
+**Purpose:** Host and manage the Purrpose packages and tools, and their planning artefacts.
 
-**Description:** Single-purpose utilities for in-browser JSX/TSX compilation, SolidJS JSX transform presets, and Shiki-based syntax highlighting.
+**Description:** Monorepo containing the Purrpose roadmap, utility libraries, and their backlogs.
 
 **Owner:** Project: Purrpose
 
