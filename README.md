@@ -12,6 +12,15 @@ Single-purpose utilities for in-browser transformations: JSX/TSX compilation, So
 - [@purrpose/client-babel-preset-solidjs](./libs/client-babel-preset-solidjs/README.md) — SolidJS JSX transform preset for `@purrpose/client-babel`.
 - [@purrpose/solid-shiki-service](./libs/solid-shiki-service/README.md) — Shiki syntax highlighting service for SolidJS.
 
+## Development
+
+### Scripts
+
+- **$** `npm run turbo build` — Build all packages.
+- **$** `npm run turbo test` — Run tests in all packages.
+- **$** `npm run turbo lint` — Lint all packages (Prettier + ESLint).
+- **$** `npm run ci` — Run all CI scripts in all packages.
+
 ## License
 
 MIT License
