@@ -1,0 +1,8 @@
+{
+  "extends": "@noodlestan/tsconfig/libs/tsconfig-vite-solid.json",
+  "compilerOptions": {
+    "rootDir": "src/"
+  },
+  "include": ["src/"],
+  "exclude": ["node_modules/"]
+}
