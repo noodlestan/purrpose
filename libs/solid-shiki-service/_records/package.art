@@ -1,0 +1,44 @@
+# Module
+
+## Package: Solid Shiki Service
+
+**Purpose:** Shiki syntax highlighting service for SolidJS.
+
+**Description:** Provides Shiki-based syntax highlighting as a SolidJS service, with prettier available for pretty-printing highlighted output.
+
+**Owner:** Project: Purrpose
+
+**Namespace:** Namespace: Purrpose
+
+**Author:** Noodlestan Collective
+
+**Path:** `libs/solid-shiki-service/`
+
+**Canonical Name:** `@purrpose/solid-shiki-service`
+
+**Published:** `true`
+
+**Private:** `false`
+
+**Deployment:** NPM Package Deployment: Solid Shiki Service
+
+**Files:**
+
+- `src`
+- `LICENSE-MIT`
+
+**Language:** TypeScript
+
+**PackageFile:** `package.json`
+
+**Dependencies:**
+
+- Runtime:
+  - `@no-comply/solid-primitives` @ `0.0.11` — SolidJS primitive helpers.
+
+- Peer:
+  - `prettier` @ `^3.8.4` — Code formatting for pretty-printed output.
+  - `shiki` @ `^4.3.0` — Syntax highlighting engine.
+  - `solid-js` @ `^1.9.5` — SolidJS runtime.
+
+**License:** License: Noodlestan 2025 MIT

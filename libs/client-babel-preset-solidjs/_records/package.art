@@ -1,0 +1,41 @@
+# Module
+
+## Package: Client Babel Preset Solid JS
+
+**Purpose:** SolidJS JSX transform preset for the in-browser compiler.
+
+**Description:** Exports a Babel preset that lets `@purrpose/client-babel` compile SolidJS TSX/JSX components directly in the browser. Contains no runtime, compiler, or execution logic — only a preset for use with `createCompiler()`.
+
+**Owner:** Project: Purrpose
+
+**Namespace:** Namespace: Purrpose
+
+**Author:** Noodlestan Collective
+
+**Path:** `libs/client-babel-preset-solidjs/`
+
+**Canonical Name:** `@purrpose/client-babel-preset-solidjs`
+
+**Published:** `true`
+
+**Private:** `false`
+
+**Deployment:** NPM Package Deployment: Client Babel Preset Solid JS
+
+**Files:**
+
+- `src`
+- `LICENSE-MIT`
+
+**Language:** TypeScript
+
+**PackageFile:** `package.json`
+
+**Dependencies:**
+
+- Peer:
+  - `@purrpose/client-babel` @ `0.0.11` — In-browser JSX/TSX compiler.
+  - `babel-plugin-jsx-dom-expressions` @ `^0.40.7` — SolidJS JSX transform.
+  - `solid-js` @ `1.9.13` — SolidJS runtime.
+
+**License:** License: Noodlestan 2025 MIT

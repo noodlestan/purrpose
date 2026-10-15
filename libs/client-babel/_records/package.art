@@ -1,0 +1,40 @@
+# Module
+
+## Package: Client Babel
+
+**Purpose:** Compile JSX/TSX in the browser.
+
+**Description:** In-browser JSX/TSX compiler for playgrounds, documentation sandboxes, visual editors, and runtime JSX evaluation. Not a build tool replacement and not for production execution contexts.
+
+**Owner:** Project: Purrpose
+
+**Namespace:** Namespace: Purrpose
+
+**Author:** Noodlestan Collective
+
+**Path:** `libs/client-babel/`
+
+**Canonical Name:** `@purrpose/client-babel`
+
+**Published:** `true`
+
+**Private:** `false`
+
+**Deployment:** NPM Package Deployment: Client Babel
+
+**Files:**
+
+- `src`
+- `LICENSE-MIT`
+
+**Language:** TypeScript
+
+**PackageFile:** `package.json`
+
+**Dependencies:**
+
+- Peer:
+  - `@babel/standalone` @ `^7.29.7` — Babel compiler bundled for the browser.
+  - `assert` @ `^2.1.0` — Node assert polyfill for the browser.
+
+**License:** License: Noodlestan 2025 MIT
