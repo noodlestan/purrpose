@@ -20,6 +20,12 @@
 
 **Private:** `false`
 
+**Keywords:**
+
+- jsx
+- tsx
+- babel
+
 **Deployment:** NPM Package Deployment: Client Babel
 
 **Files:**

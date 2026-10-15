@@ -4,6 +4,11 @@
   "description": "In-browser JSX/TSX compiler for playgrounds and documentation tools.",
   "keywords": [
     "jsx",
+    "tsx",
+    "babel"
+  ],
+  "keywords": [
+    "jsx",
     "babel",
     "runtime",
     "compiler",

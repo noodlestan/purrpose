@@ -4,6 +4,8 @@
 
 Single-purpose utilities for in-browser transformations: JSX/TSX compilation, SolidJS JSX transform presets, and Shiki-based syntax highlighting.
 
+**Keywords:** jsx, tsx, solidjs, syntax-highlighting, shiki, babel.
+
 ## Packages
 
 ### Libraries
