@@ -3,22 +3,11 @@
   "version": "0.0.11",
   "description": "In-browser JSX/TSX compiler for playgrounds and documentation tools.",
   "keywords": [
+    "library",
     "jsx",
     "tsx",
-    "babel"
-  ],
-  "keywords": [
-    "jsx",
     "babel",
-    "runtime",
-    "compiler",
-    "transpiler",
-    "solidjs",
-    "react",
-    "playground",
-    "jsx-runtime",
-    "in-browser-compiler",
-    "code-playground"
+    "solidjs"
   ],
   "author": "Noodlestan Collective",
   "license": "MIT",

@@ -22,9 +22,11 @@
 
 **Keywords:**
 
+- library
 - jsx
 - tsx
 - babel
+- solidjs
 
 **Deployment:** NPM Package Deployment: Client Babel
 

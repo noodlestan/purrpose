@@ -3,22 +3,10 @@
   "version": "0.0.11",
   "description": "SolidJS JSX transform preset for `@purrpose/client-babel`.",
   "keywords": [
-    "solidjs",
-    "jsx",
-    "babel"
-  ],
-  "keywords": [
+    "library",
     "jsx",
     "babel",
-    "runtime",
-    "compiler",
-    "transpiler",
-    "solidjs",
-    "react",
-    "playground",
-    "jsx-runtime",
-    "in-browser-compiler",
-    "code-playground"
+    "solidjs"
   ],
   "author": "Noodlestan Collective",
   "license": "MIT",
