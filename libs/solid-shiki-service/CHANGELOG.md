@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 0.0.13
+
+### Added
+
+- **Update dependencies** - `@no-comply/solid-primitives@0.0.12`
+
 ## 0.0.12
 
 ### Added

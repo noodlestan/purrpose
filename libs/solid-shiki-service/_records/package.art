@@ -43,11 +43,11 @@
 **Dependencies:**
 
 - Runtime:
-  - `@no-comply/solid-primitives` @ `0.0.11` — SolidJS primitive helpers.
+  - `@no-comply/solid-primitives` @ `0.0.12` — SolidJS primitive helpers.
 
 - Peer:
-  - `prettier` @ `^3.8.4` — Code formatting for pretty-printed output.
+  - `prettier` @ `^3.9.10` — Code formatting for pretty-printed output.
   - `shiki` @ `^4.3.0` — Syntax highlighting engine.
-  - `solid-js` @ `^1.9.5` — SolidJS runtime.
+  - `solid-js` @ `^1.9.17` — SolidJS runtime.
 
 **License:** License: Noodlestan 2025 MIT

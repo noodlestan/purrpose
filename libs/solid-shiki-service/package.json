@@ -1,6 +1,6 @@
 {
   "name": "@purrpose/solid-shiki-service",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "Shiki syntax highlighting service for SolidJS.",
   "keywords": [
     "library",
@@ -43,7 +43,7 @@
     "ci": "npm run lint && npm run build && npm run test:ci"
   },
   "dependencies": {
-    "@no-comply/solid-primitives": "0.0.11"
+    "@no-comply/solid-primitives": "0.0.12"
   },
   "peerDependencies": {
     "prettier": "^3.9.10",

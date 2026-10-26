@@ -45,6 +45,6 @@
 - Peer:
   - `@purrpose/client-babel` @ `0.0.11` — In-browser JSX/TSX compiler.
   - `babel-plugin-jsx-dom-expressions` @ `^0.40.7` — SolidJS JSX transform.
-  - `solid-js` @ `1.9.13` — SolidJS runtime.
+  - `solid-js` @ `1.9.17` — SolidJS runtime.
 
 **License:** License: Noodlestan 2025 MIT
