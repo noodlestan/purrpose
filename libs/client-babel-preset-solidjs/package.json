@@ -10,22 +10,27 @@
   ],
   "author": "Noodlestan Collective",
   "license": "MIT",
-  "private": false,
-  "publishConfig": {
-    "access": "public"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/noodlestan/purrpose.git",
     "directory": "libs/client-babel-preset-solidjs"
   },
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE-MIT",
+    "CHANGELOG.md"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
   "type": "module",
   "sideEffects": false,
   "main": "./src/index.ts",
-  "files": [
-    "src",
-    "LICENSE-MIT"
-  ],
   "scripts": {
     "dev": "vite build --watch",
     "lint": "prettier . -c && eslint . && tsc --noEmit",
@@ -39,9 +44,9 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "@purrpose/client-babel": "0.0.11",
+    "@purrpose/client-babel": "^0.0.11",
     "babel-plugin-jsx-dom-expressions": "^0.40.7",
-    "solid-js": "1.9.13"
+    "solid-js": "^1.9.17"
   },
   "devDependencies": {}
 }
