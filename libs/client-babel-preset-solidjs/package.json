@@ -1,6 +1,6 @@
 {
   "name": "@purrpose/client-babel-preset-solidjs",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "SolidJS JSX transform preset for `@purrpose/client-babel`.",
   "keywords": [
     "library",
