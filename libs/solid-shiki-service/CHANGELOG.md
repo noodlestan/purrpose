@@ -1,7 +1,7 @@
 # CHANGELOG
 
-## Unreleased
+## 0.0.12
 
 ### Added
 
-- Placeholder `CHANGELOG.md`. Remove this entry when next version CHANGELOG is generated.
+- **Update dependencies** - `solid-js@1.9.17`
