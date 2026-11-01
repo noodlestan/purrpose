@@ -2,6 +2,10 @@
 
 ## Namespace: Purrpose
 
+**Purpose:** Publish the Purrpose client packages under a shared identity.
+
+**Description:** Client-side Babel tooling and SolidJS service packages (`client-babel`, its presets, and `solid-shiki-service`).
+
 **Canonical Name:** `@purrpose`
 
 **Owner:** Project: Purrpose
