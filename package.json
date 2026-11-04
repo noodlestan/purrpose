@@ -1,5 +1,5 @@
 {
-  "name": "purrpose",
+  "name": "noodlestan/purrpose",
   "version": "0.0.11",
   "description": "Single-purpose utilities for in-browser transformations: JSX/TSX compilation, SolidJS JSX transform presets, and Shiki-based syntax highlighting.",
   "keywords": [
